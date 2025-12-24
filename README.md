@@ -19,7 +19,7 @@ Recent Wins
 
 🚀 90% Admin Overhead Reduction via Custom Internal SaaS (CTE Hub).
 
-View My Portfolio
+[View My Portfolio](https://mannierivers.dev)
 <!--
 **mannierivers/mannierivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
