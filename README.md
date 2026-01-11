@@ -1,36 +1,29 @@
-Mannie Rivers.
+# I build the engines and the stories that power them.
 
-Department Chair & Senior UX Engineer
-Building complex internal tools and white-label apps on the Night Shift.
+I am a **Digital Systems & Media Architect** specializing in high-velocity builds for communities and high-stakes brands. I bridge the gap between full-stack engineering and professional media production.
 
-The Stack
-React Firebase NoSQL Tailwind Vite CI/CD
+### 🌑 The Night Shift
+Based in Arizona (MST), I provide white-label agencies with an **overnight production bridge**. I handle the complex logic, Next.js features, and media assets while your team is offline, delivering finished PRs by your morning stand-up.
 
-The Workflow
-I operate on a disciplined, asynchronous schedule designed for deep work.
+---
 
-☀️ 07:00 - 15:00: Leading the CTE Dept @ Salpointe (Available on Slack).
+### 🚀 Recent Mechanical Load
+- **Conscious Cuisine (Chef Cary Neff):** Lead Architect for a minimalist luxury digital platform. Translating NYT best-selling philosophy into a Vercel-native, sub-second UX.
+- **Salpointe Community Suite:** Orchestrated a triple-release of internal tools (CTE Hub, Teacher Agenda, Prayer Requests) using React & Firebase.
+- **Content Engineering ROI:** Built a systems-integrated media pipeline that delivered **$27,500 in cost avoidance** for institutional marketing assets.
 
-🌑 16:00 - 21:00: The Night Shift. Deep Work & Code Shipping.
+### 🛠 The Stack
+- **Systems:** Next.js (App Router), React, Firebase (Firestore/Auth), Tailwind CSS, Vercel.
+- **Media:** 4K Narrative Video, After Effects (Motion Design), Premiere Pro, Drone Cinematography.
+- **Workflow:** Async-first, Iterative Shipping, Clean Documentation, MST/Overnight Bandwidth.
 
-Recent Wins
+---
 
-🏆 $78k Capital Funding Secured via UX Research for Enterprise Infrastructure.
+### 📊 Vital Signs
+| Role | Context | Value Provided |
+| :--- | :--- | :--- |
+| **Architect** | Chef Cary Neff | High-Fidelity Brand Logic |
+| **Tech Lead** | Salpointe CTE | 90% Reduction in Admin Friction |
+| **Engineer** | Media Pipelines | $27,500 in Market Cost Avoidance |
 
-🚀 90% Admin Overhead Reduction via Custom Internal SaaS (CTE Hub).
-
-[View My Portfolio](https://mannierivers.dev)
-<!--
-**mannierivers/mannierivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[mannierivers.dev](https://mannierivers.dev) • [LinkedIn](https://www.linkedin.com/in/mannierivers/) • mannierivers@me.com
